@@ -1,0 +1,51 @@
+/* 
+    Document   : login
+    Created on : Mar 7, 2014, 9:34:20 AM
+    Author     : MrHung
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    background-color: #0F1621;
+    color: #fff;
+}
+
+.content-center{
+    margin-top: 40px;
+}
+
+.img-center{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form-control{
+    background-color: #0F1621;
+    border: 1px solid #447294;
+    color: #fff;
+}
+
+.btn-primary{
+    background-color: #447294;
+    border-color: #447294;
+}
+
+.checkbox {
+    padding-top: 0px;
+    color: #fff;
+}
+
+.control-label{
+    font-weight: 500;
+}
+
+.hr-light-blue{
+    border-top: #447294;
+    background: #447294;
+}
+
