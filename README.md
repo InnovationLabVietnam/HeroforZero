@@ -47,8 +47,7 @@ server {
     ```
     You may need to change the “DEFINER=your_user@your_host “ to fit with your MySQL database.
     
-  3 . All the configuration thing should be in the folder: /application/config. You can change the base url, website name, or database config inside that folder. For example, set you base URL in application/config/config.php file with: “$config['base_url'] = 'http://example.com/'; “
-The database is in: application/sql.
+  3 . All the configuration thing should be in the folder: /application/config. You can change the base url, website name, or database config inside that folder. For example, set you base URL in application/config/config.php file with: “$config['base_url'] = 'http://example.com/'";
 
 
 ####Install iOS project
