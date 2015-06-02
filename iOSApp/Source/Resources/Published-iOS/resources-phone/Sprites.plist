@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Sprites/answer_correct_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{323, 1}, {140, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 46}}</string>
+			<key>sourceSize</key>
+			<string>{140, 46}</string>
+		</dict>
+		<key>Sprites/answer_correct_circle_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 417}, {23, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>sourceSize</key>
+			<string>{23, 23}</string>
+		</dict>
+		<key>Sprites/answer_normal_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{465, 1}, {140, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 46}}</string>
+			<key>sourceSize</key>
+			<string>{140, 46}</string>
+		</dict>
+		<key>Sprites/answer_wrong_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{607, 1}, {140, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 46}}</string>
+			<key>sourceSize</key>
+			<string>{140, 46}</string>
+		</dict>
+		<key>Sprites/answer_wrong_circle_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 490}, {23, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>sourceSize</key>
+			<string>{23, 23}</string>
+		</dict>
+		<key>Sprites/blank_circle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732, 419}, {23, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>sourceSize</key>
+			<string>{23, 23}</string>
+		</dict>
+		<key>Sprites/boyheroA-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 262}, {27, 80}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{29, 30}, {27, 80}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroA-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{656, 352}, {26, 79}}</string>
+			<key>offset</key>
+			<string>{-2, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{27, 31}, {26, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroA-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{656, 316}, {34, 79}}</string>
+			<key>offset</key>
+			<string>{-6, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{19, 31}, {34, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroA-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 374}, {28, 79}}</string>
+			<key>offset</key>
+			<string>{-2, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 31}, {28, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroA-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 356}, {32, 79}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 31}, {32, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroA-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{286, 328}, {43, 79}}</string>
+			<key>offset</key>
+			<string>{-10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 31}, {43, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 390}, {29, 79}}</string>
+			<key>offset</key>
+			<string>{0, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 31}, {29, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 300}, {35, 79}}</string>
+			<key>offset</key>
+			<string>{6, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 31}, {35, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{490, 298}, {41, 79}}</string>
+			<key>offset</key>
+			<string>{4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26, 31}, {41, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{656, 380}, {35, 77}}</string>
+			<key>offset</key>
+			<string>{6, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 33}, {35, 77}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{367, 328}, {40, 79}}</string>
+			<key>offset</key>
+			<string>{4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26, 31}, {40, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroB-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 417}, {45, 79}}</string>
+			<key>offset</key>
+			<string>{2, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 31}, {45, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 337}, {35, 79}}</string>
+			<key>offset</key>
+			<string>{1, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{26, 31}, {35, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 424}, {37, 79}}</string>
+			<key>offset</key>
+			<string>{6, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 31}, {37, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{409, 298}, {45, 79}}</string>
+			<key>offset</key>
+			<string>{2, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 31}, {45, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{409, 386}, {37, 77}}</string>
+			<key>offset</key>
+			<string>{6, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 33}, {37, 77}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{409, 345}, {39, 79}}</string>
+			<key>offset</key>
+			<string>{5, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 31}, {39, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroC-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 369}, {46, 79}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 31}, {46, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{286, 373}, {42, 79}}</string>
+			<key>offset</key>
+			<string>{1, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 31}, {42, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 388}, {38, 79}}</string>
+			<key>offset</key>
+			<string>{6, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{29, 31}, {38, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 368}, {54, 79}}</string>
+			<key>offset</key>
+			<string>{-2, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13, 31}, {54, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{967, 283}, {55, 77}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 33}, {55, 77}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 291}, {63, 79}}</string>
+			<key>offset</key>
+			<string>{-7, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 31}, {63, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/boyheroD-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{205, 326}, {60, 79}}</string>
+			<key>offset</key>
+			<string>{-5, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{7, 31}, {60, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/close_btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{614, 382}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>Sprites/cook-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 324}, {42, 100}}</string>
+			<key>offset</key>
+			<string>{-3, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 10}, {42, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/cook-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{975, 180}, {47, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 9}, {47, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/cook-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{660, 267}, {47, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{19, 9}, {47, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/cook-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 143}, {45, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {45, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/cook-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{844, 346}, {45, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {45, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/cook-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{844, 298}, {46, 101}}</string>
+			<key>offset</key>
+			<string>{1, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {46, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/death-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{323, 49}, {70, 118}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {70, 118}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/death-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{749, 1}, {46, 120}}</string>
+			<key>offset</key>
+			<string>{-3, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9, 0}, {46, 120}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/death-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{871, 1}, {48, 119}}</string>
+			<key>offset</key>
+			<string>{-2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9, 1}, {48, 119}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/death-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 49}, {54, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 2}, {54, 118}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/death-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{683, 49}, {65, 115}}</string>
+			<key>offset</key>
+			<string>{-2, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {65, 115}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/death-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{443, 49}, {59, 118}}</string>
+			<key>offset</key>
+			<string>{3, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9, 2}, {59, 118}}</string>
+			<key>sourceSize</key>
+			<string>{70, 120}</string>
+		</dict>
+		<key>Sprites/doctor-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{207, 143}, {43, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 9}, {43, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/doctor-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{104, 188}, {42, 101}}</string>
+			<key>offset</key>
+			<string>{1, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 9}, {42, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/doctor-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{763, 217}, {43, 99}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 11}, {43, 99}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/doctor-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 190}, {42, 101}}</string>
+			<key>offset</key>
+			<string>{1, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 9}, {42, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/doctor-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{864, 190}, {42, 104}}</string>
+			<key>offset</key>
+			<string>{1, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 6}, {42, 104}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/doctor-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{555, 189}, {49, 103}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 7}, {49, 103}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/education-lottogirl.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{521, 458}, {23, 73}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 37}, {23, 73}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/education-minoritygirl.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{707, 417}, {23, 70}}</string>
+			<key>offset</key>
+			<string>{0, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{31, 40}, {23, 70}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/education-streetworker.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{781, 142}, {81, 73}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 37}, {81, 73}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/extra-heart-btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{614, 300}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{40, 39}</string>
+		</dict>
+		<key>Sprites/extra-time-btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{490, 379}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{40, 39}</string>
+		</dict>
+		<key>Sprites/family-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{207, 188}, {47, 100}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 9}, {47, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/family-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{410, 254}, {42, 100}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 9}, {42, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/family-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{308, 253}, {42, 100}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 9}, {42, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/family-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{205, 282}, {42, 100}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 9}, {42, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/family-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 325}, {42, 100}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 9}, {42, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/family-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 234}, {44, 100}}</string>
+			<key>offset</key>
+			<string>{2, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 9}, {44, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 316}, {24, 74}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 36}, {24, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{407, 452}, {24, 74}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 36}, {24, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{532, 404}, {27, 74}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 36}, {27, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{407, 425}, {25, 74}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{29, 36}, {25, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{992, 1}, {31, 74}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 36}, {31, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/girlheroA-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 389}, {40, 74}}</string>
+			<key>offset</key>
+			<string>{-3, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{19, 36}, {40, 74}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/healthcare-sickboy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{800, 49}, {23, 69}}</string>
+			<key>offset</key>
+			<string>{0, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 41}, {23, 69}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/heart.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{781, 116}, {18, 17}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 17}}</string>
+			<key>sourceSize</key>
+			<string>{18, 17}</string>
+		</dict>
+		<key>Sprites/loto-girl-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{521, 483}, {23, 72}}</string>
+			<key>offset</key>
+			<string>{0, -19}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 38}, {23, 72}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/nutrition-minoritygirl.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{488, 420}, {31, 73}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 37}, {31, 73}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/nutrition-monk.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{635, 417}, {25, 70}}</string>
+			<key>offset</key>
+			<string>{0, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 40}, {25, 70}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/nutrition-streetkid.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 416}, {25, 72}}</string>
+			<key>offset</key>
+			<string>{0, -19}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 38}, {25, 72}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{660, 202}, {63, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{11, 9}, {63, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{864, 234}, {62, 101}}</string>
+			<key>offset</key>
+			<string>{9, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {62, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 190}, {62, 101}}</string>
+			<key>offset</key>
+			<string>{9, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {62, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 240}, {58, 101}}</string>
+			<key>offset</key>
+			<string>{6, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{19, 9}, {58, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{104, 143}, {43, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 9}, {43, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/prisoner-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{978, 77}, {45, 101}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 9}, {45, 101}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/protection-abusedgirl.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{521, 433}, {23, 73}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 37}, {23, 73}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/protection-crippledboy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 362}, {25, 75}}</string>
+			<key>offset</key>
+			<string>{0, -17}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 35}, {25, 75}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/quiz-placeholder-bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {320, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {320, 140}}</string>
+			<key>sourceSize</key>
+			<string>{320, 140}</string>
+		</dict>
+		<key>Sprites/remain-time.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{735, 392}, {26, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 25}}</string>
+			<key>sourceSize</key>
+			<string>{26, 25}</string>
+		</dict>
+		<key>Sprites/review_coin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{800, 74}, {66, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 66}}</string>
+			<key>sourceSize</key>
+			<string>{66, 66}</string>
+		</dict>
+		<key>Sprites/schoolgirl-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{635, 444}, {23, 70}}</string>
+			<key>offset</key>
+			<string>{0, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 40}, {23, 70}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/sick-boy-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{635, 469}, {23, 70}}</string>
+			<key>offset</key>
+			<string>{0, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{31, 40}, {23, 70}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/skip-question-btn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{614, 341}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{40, 39}</string>
+		</dict>
+		<key>Sprites/teacher-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 297}, {29, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 10}, {29, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/teacher-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{206, 237}, {43, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 10}, {43, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/teacher-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 280}, {43, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 10}, {43, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/teacher-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 279}, {43, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 10}, {43, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/teacher-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 208}, {43, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 10}, {43, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/teacher-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{104, 232}, {45, 100}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 10}, {45, 100}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/training-cape.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{367, 409}, {38, 59}}</string>
+			<key>offset</key>
+			<string>{0, -25}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 51}, {38, 59}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/training-shield.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 240}, {22, 44}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{31, 66}, {22, 44}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/training-sword.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{265, 417}, {57, 66}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{14, 44}, {57, 66}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{868, 135}, {53, 105}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 5}, {53, 105}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{871, 51}, {82, 105}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 5}, {82, 105}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{675, 116}, {84, 104}}</string>
+			<key>offset</key>
+			<string>{1, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 6}, {84, 104}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{323, 121}, {85, 105}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 5}, {85, 105}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{443, 110}, {78, 110}}</string>
+			<key>offset</key>
+			<string>{-3, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 110}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+		<key>Sprites/wolf-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 105}, {82, 110}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {82, 110}}</string>
+			<key>sourceSize</key>
+			<string>{85, 110}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>Sprites.png</string>
+	</dict>
+</dict>
+</plist>

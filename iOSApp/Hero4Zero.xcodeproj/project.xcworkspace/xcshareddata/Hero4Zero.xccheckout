@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9F441ECC-619A-40D2-A564-8FDD5784543B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hero4Zero</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC15C19B-2726-44F4-A840-7D9553052183</key>
+		<string>file:///Users/vuhoangson/Dropbox/Enicef/svnrepo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hero4Zero/Hero4Zero.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC15C19B-2726-44F4-A840-7D9553052183</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>FC15C19B-2726-44F4-A840-7D9553052183</key>
+		<string>file:///Users/vuhoangson/Dropbox/Enicef/svnrepo</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>file:///Users/vuhoangson/Dropbox/Enicef/svnrepo/Hero4Zero/Hero4Zero.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC15C19B-2726-44F4-A840-7D9553052183</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC15C19B-2726-44F4-A840-7D9553052183</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PROJECTS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

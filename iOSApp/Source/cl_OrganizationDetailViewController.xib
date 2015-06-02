@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5056" systemVersion="13D65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="cl_OrganizationDetailViewController">
+            <connections>
+                <outlet property="emailButton" destination="BRZ-Vq-nDG" id="7ol-ja-arU"/>
+                <outlet property="organizationTableView" destination="Mlq-ek-rnI" id="K2N-h4-VNk"/>
+                <outlet property="phoneButton" destination="Fd8-bY-PLD" id="2Pk-bW-QsX"/>
+                <outlet property="view" destination="1" id="3"/>
+                <outlet property="webButton" destination="lid-xS-TKq" id="NhZ-Ig-7MR"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="C8M-eM-QHW">
+                    <rect key="frame" x="-2" y="253" width="329" height="329"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.050980396570000003" green="0.02745098248" blue="0.090196080509999998" alpha="1" colorSpace="deviceRGB"/>
+                </imageView>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="61" sectionHeaderHeight="22" sectionFooterHeight="22" id="Mlq-ek-rnI">
+                    <rect key="frame" x="0.0" y="57" width="322" height="511"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                    <color key="separatorColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="I94-sl-02S"/>
+                        <outlet property="delegate" destination="-1" id="zS3-bw-beD"/>
+                    </connections>
+                </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="BRZ-Vq-nDG" userLabel="Button - SendMail">
+                    <rect key="frame" x="15" y="9" width="40" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" backgroundImage="email-icon_btn.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="SendEmailFunction:" destination="-1" eventType="touchUpInside" id="6KQ-E1-J4V"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="vmM-pM-wly" userLabel="Button - ComeBack">
+                    <rect key="frame" x="278" y="10" width="32" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" image="close_btn.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="BackButton:" destination="-1" eventType="touchUpInside" id="OxY-g2-L8F"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="lid-xS-TKq" userLabel="Button - GotoWeb">
+                    <rect key="frame" x="76" y="9" width="40" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" backgroundImage="website-icon_btn.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="GoToWebsite:" destination="-1" eventType="touchUpInside" id="KNT-KY-Gd2"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Fd8-bY-PLD" userLabel="Button - CallPhone">
+                    <rect key="frame" x="133" y="9" width="40" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" backgroundImage="phone-icon_btn.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="CallPhoneFunction:" destination="-1" eventType="touchUpInside" id="r3l-cV-EIR"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.87843137250000003" green="0.46274509800000002" blue="0.14901960780000001" alpha="1" colorSpace="calibratedRGB"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="close_btn.png" width="32" height="32"/>
+        <image name="email-icon_btn.png" width="40" height="40"/>
+        <image name="phone-icon_btn.png" width="40" height="40"/>
+        <image name="website-icon_btn.png" width="40" height="40"/>
+    </resources>
+</document>
